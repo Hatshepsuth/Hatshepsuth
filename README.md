@@ -6,7 +6,6 @@
 - Expert in prompt engineering for LLMs (OpenAI, Mistral, Qwen, etc.)
 - Python, LangChain, CTranslate2, Streamlit, advanced prompt design
 - Author of “The Art of Prompting: Everyday Guide for AI-Powered Translations”
-- Knowledge bases building and management to b) to support translation workflows and advanced prompt engineering
 - Advocate for ethical AI and effective human-AI collaboration
 - Based in Montenegro, open to international projects and collaborations
 
@@ -18,6 +17,7 @@
 - Custom AI workflow development for translation, linguistics, and content automation
 - Human-in-the-loop NLP pipelines, quality assurance, fact-checking
 - Consulting for AI adoption in translation & language services
+- Knowledge bases building and management to b) to support translation workflows and advanced prompt engineering
 
 ---
 
