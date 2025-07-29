@@ -23,7 +23,7 @@
 
 ## Featured Project
 
-**[The Art of Prompting](https://github.com/katyamarkova/the-art-of-prompting)**  
+**[The Art of Prompting](https://github.com/Hatshepsuth/The-Art-of-Prompting-Translation-with-AI)**  
 Your practical guide to AI-powered translation and workflow automation.
 
 ---
