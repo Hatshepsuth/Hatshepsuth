@@ -17,7 +17,7 @@
 - Custom AI workflow development for translation, linguistics, and content automation
 - Human-in-the-loop NLP pipelines, quality assurance, fact-checking
 - Consulting for AI adoption in translation & language services
-- Knowledge bases building and management to b) to support translation workflows and advanced prompt engineering
+- Knowledge bases building and management to support translation workflows and advanced prompt engineering
 
 ---
 
